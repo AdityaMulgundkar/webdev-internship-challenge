@@ -2,7 +2,7 @@
 
 [//]: # (Placeholder for a status badge)
 
-**Note:** This is a hiring test for a web development internship. Basic knowledge of HTML/CSS & experience in some programming language is assumed.
+**Note:** This is a hiring test for a web development internship. Basic knowledge of HTML/CSS & experience in some programming language is a prerequisite.
 
 ## Idea
 
