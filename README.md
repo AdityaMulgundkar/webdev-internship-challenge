@@ -52,7 +52,7 @@ There's two approaches to building a website - first is to write everything out 
 - Fork this repository
 - In the root directory, create a project with GatsbyJS (that uses Bulma for CSS), a starter template works fine too
 - Add a basic gitignore for node_modules, build directory, etc
-- Commit & push often, if you're just starting with Git
+- Commit & push often, if you're just starting with Git (hint: GitHub has a Desktop client)
 - Make necessary changes to the template based on the business requirements
 - Hint: remove unneccessary components & their usages; work only on the main sass file & the components/templates directories
 - Connect your GitHub repository to a new Project on Netlify
